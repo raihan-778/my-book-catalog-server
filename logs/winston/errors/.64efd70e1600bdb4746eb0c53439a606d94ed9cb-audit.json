@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\.64efd70e1600bdb4746eb0c53439a606d94ed9cb-audit.json",
+    "files": [
+        {
+            "date": 1686974289845,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-09-error.log",
+            "hash": "dd9c3948818e49db215220aba09d16e1f57c3085ae59e91b3ab4f186a2e36631"
+        },
+        {
+            "date": 1686976145955,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-10-error.log",
+            "hash": "631adc9eec35f3f547fc0689e5e48ba66c6b8518d529969248de0a70ae05e229"
+        },
+        {
+            "date": 1686983815836,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-12-error.log",
+            "hash": "2d26d050497fe866183815f8f18c44f8b7e7c49ef3e039316340463470a2d41d"
+        },
+        {
+            "date": 1686992191485,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-14-error.log",
+            "hash": "d029d44c78fdae2614c82000a6881a27311df85ed5d8c8ad40763417b2a4ff49"
+        },
+        {
+            "date": 1686992423545,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-15-error.log",
+            "hash": "9d99b2cb482430ec6ea73a3ac54a4d575abee6aa2c965960a5c0977c8cf5d5b6"
+        },
+        {
+            "date": 1686996034206,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-16-error.log",
+            "hash": "ee1c76391b8283a57bfccc86a035ed759635210b69aa945d9386101131258ad6"
+        },
+        {
+            "date": 1687001234428,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\errors\\phu-2023-06-17-17-error.log",
+            "hash": "5aaaaa069a3fd6e98b370e64043e4310706c9e6b30722eece8938f882c23a5be"
+        }
+    ],
+    "hashType": "sha256"
+}

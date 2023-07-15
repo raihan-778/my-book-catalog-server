@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\.a43b0d3a799d393f0bd463c46b2ef057eba436eb-audit.json",
+    "files": [
+        {
+            "date": 1686974289830,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-09-success.log",
+            "hash": "32db790d88645993d2082a7e20a8f3c8bfa1ec23a7609d9c58409e4d16613059"
+        },
+        {
+            "date": 1686976145910,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-10-success.log",
+            "hash": "42cc3abfc111f754b8e98a2e64107747cd12c6bc67e901994e1c9b5e37400c71"
+        },
+        {
+            "date": 1686983815806,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-12-success.log",
+            "hash": "d1c69d76e8b510012b145e49dc58e15f8c02f9f394c504457ba3005b9ba9a563"
+        },
+        {
+            "date": 1686992191451,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-14-success.log",
+            "hash": "a8101f31eb53db5d2b024b118b3b7bbbad6b5ffe50007dc2b72c720ec1a5bb60"
+        },
+        {
+            "date": 1686992423531,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-15-success.log",
+            "hash": "6548d0c15305a3df0428fad167f671bc654852d5df337bd9a62134edbef40c8b"
+        },
+        {
+            "date": 1686996008778,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-16-success.log",
+            "hash": "929df780f67a5f82a6427ebed81857febd6408037c6ae8faa1bff486e1783625"
+        },
+        {
+            "date": 1687001234402,
+            "name": "D:\\Programming-hero\\PhWevDevLevel2\\level_2_assignments\\back_end_assignment_3\\Digital-Cow-Hut\\logs\\winston\\successes\\phu-2023-06-17-17-success.log",
+            "hash": "f2cf9c2334d064895573137a9ac079004121f88569ee9243ae8069ce994f9683"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\.7625c648712b622426fff2b7bac086d813ade08e-audit.json",
+    "files": [
+        {
+            "date": 1687014500498,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-17-21-success.log",
+            "hash": "248b8839e584888cf3e4aaea09b95e38f3338b9a4ed8a31838362713076d2c4d"
+        },
+        {
+            "date": 1687019970000,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-17-22-success.log",
+            "hash": "c9d55aa6e60708e53c7965f83b56ce6f47dec646525b4d59bd0acebe2cc71a2d"
+        },
+        {
+            "date": 1687022392722,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-17-23-success.log",
+            "hash": "225fd4f25c0b58ea7a15cdf3579cdde7bbeaa221557b60282136c0184010adb9"
+        },
+        {
+            "date": 1687024950992,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-18-00-success.log",
+            "hash": "e349dd3a40f84fc68d59434054c1f2e687b66ea75ceda95dbcfb306b7e285741"
+        },
+        {
+            "date": 1687054242046,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-18-08-success.log",
+            "hash": "db2db5c63d5aa30cfed90b721f35a9a7230123616c325409e047cc372b3652e5"
+        },
+        {
+            "date": 1687057294795,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-18-09-success.log",
+            "hash": "9f9f097a3f1e67bd01a98e257ac50564f3ef7f8e09d0da0bfd2eeec2244ad6c2"
+        },
+        {
+            "date": 1687061316735,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-18-10-success.log",
+            "hash": "60723037c78600f797457e100826be7bf1bbee17630ffc9593ea395bce60e484"
+        },
+        {
+            "date": 1687064752665,
+            "name": "D:\\Next_level_web_dev\\next_level_assignment\\back_end_assignment_03\\digital-cow-hat-assignment-3\\logs\\winston\\successes\\phu-2023-06-18-11-success.log",
+            "hash": "743f9626f5b196708f89999a59f2d467040f462f4560f87a3361e1cd9ecc554d"
+        }
+    ],
+    "hashType": "sha256"
+}
