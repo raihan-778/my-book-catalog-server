@@ -1,21 +1,18 @@
-import { Schema, model } from 'mongoose'
-import { BookModel, IBook } from './book.interface'
-
-const bookSchema = new Schema<IBook, BookModel>(
-  {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Book = void 0;
+const mongoose_1 = require("mongoose");
+const bookSchema = new mongoose_1.Schema({
     title: { type: String, required: true },
     author: { type: String, required: true },
     genre: { type: String, required: true },
     image: { type: String },
     publicationDate: { type: String, required: true },
     reviews: { type: [String], default: [] },
-  },
-  {
+}, {
     timestamps: true,
     toJSON: {
-      virtuals: true,
+        virtuals: true,
     },
-  }
-)
-
-export const Book = model<IBook, BookModel>('Book', bookSchema)
+});
+exports.Book = (0, mongoose_1.model)('Book', bookSchema);

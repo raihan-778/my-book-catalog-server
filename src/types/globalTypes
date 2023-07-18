@@ -1,0 +1,8 @@
+export type IBook = {
+  title: string
+  image?: string
+  author: number
+  genrte: string
+  publicationDate: string
+  Reviewa: string[]
+}

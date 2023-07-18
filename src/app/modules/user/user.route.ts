@@ -5,34 +5,17 @@ import { UserValidation } from './user.validation'
 
 const router = express.Router()
 //create user route
-router.post(
-  '/auth/signup',
-  validateRequest(UserValidation.createUserZodSchema),
-  UserController.createUser
-)
-//get singel users route
-router.get(
-  '/users/:id',
+// router.post(
+//   '/auth/signup',
+//   validateRequest(UserValidation.createUserZodSchema),
+//   UserController.createUser
+// )
 
-  UserController.getSingleUser
-)
 //updatesingel users route
 router.patch(
   '/users/:id',
-
+  validateRequest(UserValidation.updateUserZodSchema),
   UserController.updateUser
-)
-//delete singel users route
-router.delete(
-  '/users/:id',
-
-  UserController.deleteUser
-)
-//get all users route
-router.get(
-  '/users',
-
-  UserController.getAllUsers
 )
 
 export const UserRoutes = router
