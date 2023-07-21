@@ -1,18 +1,14 @@
 import { Model } from 'mongoose'
 
-export type IRoleTitle = 'buyer' | 'seller'
-
 export type IUser = {
+  email: string
   password: string
-  role: IRoleTitle
+
   name: {
     firstName: string
     lastName?: string
   }
-  phoneNumber: string
-  address: string
-  budget: number
-  income: number
+  phoneNumber?: string
 }
 
 export type IUserFilters = {

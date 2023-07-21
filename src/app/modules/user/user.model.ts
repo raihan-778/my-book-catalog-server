@@ -1,19 +1,16 @@
 import { Schema, model } from 'mongoose'
-import { userRole } from './user.constant'
 import { IUser, UserModel } from './user.interface'
 
 const userSchema = new Schema<IUser, UserModel>(
   {
+    email: { type: String, required: true },
     password: { type: String, required: true },
-    role: { type: String, required: true, enum: userRole },
+
     name: {
       firstName: { type: String, required: true },
-      lastName: { type: String, required: true },
+      lastName: { type: String },
     },
-    phoneNumber: { type: String, required: true, unique: true },
-    address: { type: String, required: true },
-    budget: { type: Number, required: true },
-    income: { type: Number, required: true },
+    phoneNumber: { type: String, unique: true },
   },
   {
     timestamps: true,

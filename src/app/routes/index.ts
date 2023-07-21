@@ -20,7 +20,6 @@ const moduleRoutes = [
 ]
 moduleRoutes.forEach(route => routes.use(route.path, route.route)) // by using these "moduleRoute we can create all users route dynamically."
 
-// routes.use('/users/', UserRoutes);
-// routes.use('/academic-semester', AcademicsemesterRoutes);
+
 
 export default routes
